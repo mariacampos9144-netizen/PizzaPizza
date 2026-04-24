@@ -42,11 +42,12 @@ export function Footer() {
               <p><span className="text-white/50">Estudiante:</span> [TU NOMBRE]</p>
               <p><span className="text-white/50">Universidad:</span> CUCEI</p>
               
-              <div className="mt-4 border border-dashed border-white/30 rounded-lg p-6 flex flex-col items-center justify-center text-center bg-white/5">
-                <p className="text-white/40 text-xs font-mono uppercase tracking-widest">Logo CUCEI</p>
-                {/* 
-                  <img src="/ruta-a-tu-logo.png" alt="Logo CUCEI" className="h-12 object-contain" /> 
-                */}
+              <div className="mt-4 border border-white/10 rounded-lg p-4 flex items-center justify-center bg-white/5">
+                <img
+                  src="https://res.cloudinary.com/drfqisoar/image/upload/v1777002834/Escudo_CUCEI.svg_v0oxe8.png"
+                  alt="Escudo CUCEI"
+                  className="h-24 w-auto max-w-full object-contain"
+                />
               </div>
             </div>
           </div>
