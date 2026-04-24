@@ -39,7 +39,7 @@ export function Footer() {
             <h4 className="text-white font-bold text-lg">Créditos</h4>
             <div className="space-y-2 text-sm bg-white/5 p-4 rounded-xl border border-white/10">
               <p><span className="text-white/50">Tipo:</span> Proyecto académico</p>
-              <p><span className="text-white/50">Estudiante:</span> [TU NOMBRE]</p>
+              <p><span className="text-white/50">Estudiante:</span> Maria Guadalupe Campos</p>
               <p><span className="text-white/50">Universidad:</span> CUCEI</p>
               
               <div className="mt-4 border border-white/10 rounded-lg p-4 flex items-center justify-center bg-white/5">
