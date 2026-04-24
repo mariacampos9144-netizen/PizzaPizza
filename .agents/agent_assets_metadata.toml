@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "hewbtg2x6DQXAzMsbYxnQ"
+uri = "file://artifacts/little-caesars-parian/public/images/hero.png"
+type = "image"
+title = "Hero pizza background"
+
+[[generated]]
+id = "CuMPDqCTYv5LcyzcQBYMk"
+uri = "file://artifacts/little-caesars-parian/public/images/about.png"
+type = "image"
+title = "Local pizzeria storefront"
+
+[[generated]]
+id = "caZcdsWoLXh2G_EaPIsYI"
+uri = "file://artifacts/little-caesars-parian/public/images/pepperoni.png"
+type = "image"
+title = "Pepperoni pizza"
+
+[[generated]]
+id = "g0J2LUQBWkHqcRXenaS9I"
+uri = "file://artifacts/little-caesars-parian/public/images/hawaiian.png"
+type = "image"
+title = "Hawaiian pizza"
+
+[[generated]]
+id = "L5xN3rP0jLtP7-rKtJWLh"
+uri = "file://artifacts/little-caesars-parian/public/images/crazy-bread.png"
+type = "image"
+title = "Crazy Bread"
+
+[[generated]]
+id = "5WyzuBwVGrKn6TTISBwR6"
+uri = "file://artifacts/little-caesars-parian/public/images/cola.png"
+type = "image"
+title = "Cold cola drink"
+
+[[generated]]
+id = "GnWU63etosILL1BRiJspH"
+uri = "file://artifacts/little-caesars-parian/public/images/gallery-1.png"
+type = "image"
+title = "Gallery pizza 1"
+
+[[generated]]
+id = "Rv7LJAqSD1Dt0ozTdiAne"
+uri = "file://artifacts/little-caesars-parian/public/images/gallery-2.png"
+type = "image"
+title = "Gallery pizza 2"
+
+[[generated]]
+id = "h5eQCQeUEz3GqAGBiTjgv"
+uri = "file://artifacts/little-caesars-parian/public/images/gallery-3.png"
+type = "image"
+title = "Gallery pizza 3"
+
+[[generated]]
+id = "fPwpZPQvFgG5j4d0xUoH8"
+uri = "file://artifacts/little-caesars-parian/public/images/gallery-4.png"
+type = "image"
+title = "Gallery pizza 4"

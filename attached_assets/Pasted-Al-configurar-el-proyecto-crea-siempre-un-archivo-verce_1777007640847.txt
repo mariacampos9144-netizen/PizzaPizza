@@ -1,0 +1,82 @@
+Al configurar el proyecto, crea siempre un archivo vercel.json en la raíz para asegurar el despliegue correcto de una SPA (Single Page Application) con Vite.
+El archivo debe tener exactamente esta configuración:
+framework: "vite"
+outputDirectory: "dist/public"
+rewrites: Una regla que redirija todas las rutas (source: "/(.*)") a /index.html para que el routing del lado del cliente funcione sin errores 404.
+No esperes a que falle el deploy, inclúyelo desde el principio.
+
+---
+
+1. RESTAURANTE DE COMIDA RÁPIDA
+Negocio: Little Caesars Pizza "Parián" - Pizzería de comida rápida
+
+Crea un sitio web moderno, atractivo y funcional para "Little Caesars Pizza 'Parián'", una pizzería de comida rápida ubicada en el centro de San Pedro Tlaquepaque, Jalisco, México.
+
+DISEÑO Y ESTÉTICA:
+- Paleta de colores: naranja (#FF6B00), blanco (#FFFFFF), negro (#1C1C1C)
+- Estilo moderno y juvenil
+- Tipografía sans-serif clara y fácil de leer
+- Imágenes de pizza llamativas (usar placeholders de Unsplash)
+- Diseño limpio y bien organizado
+
+HERO SECTION:
+- Imagen grande de pizzas
+- Título: "Pizza rápida, deliciosa y lista para llevar"
+- Subtítulo: "Disfruta el sabor de Little Caesars en Tlaquepaque"
+- Botón: "Ordena ahora"
+
+SOBRE NOSOTROS:
+- Breve descripción del negocio (historia simple)
+- Enfatizar rapidez, precio accesible y calidad
+- Imagen del local o pizzas
+
+MENÚ:
+- Mostrar al menos 4 productos:
+  - Pizza Pepperoni
+  - Pizza Hawaiana
+  - Crazy Bread
+  - Refrescos
+- Cada producto con:
+  - Nombre
+  - Descripción corta
+  - Precio
+
+GALERÍA:
+- Grid simple de imágenes de pizzas
+- Efecto hover ligero
+
+FORMULARIO (IMPORTANTE):
+- Formulario de contacto o pedido con:
+  - Nombre
+  - Teléfono
+  - Pedido o mensaje
+- Botón "Enviar"
+- Validación básica
+
+UBICACIÓN:
+- Mostrar dirección:
+  "C. Herrera y Cairo 17, Centro, San Pedro Tlaquepaque, Jalisco"
+- Incluir mapa de Google Maps embebido
+
+FOOTER:
+- Fondo oscuro
+- Incluir:
+  - Nombre del estudiante: [TU NOMBRE]
+  - Universidad: CUCEI
+  - Texto: "Proyecto académico"
+  - Espacio para logo de CUCEI
+- Links simples
+
+CARACTERÍSTICAS TÉCNICAS:
+- Sitio 100% responsive
+- Navbar fijo
+- Scroll suave
+- Imágenes optimizadas
+- Código limpio en HTML, CSS y JavaScript
+- Estructura simple para fácil edición en Replit
+
+REQUISITOS IMPORTANTES:
+- El proyecto debe ser fácil de modificar
+- Incluir al menos una imagen editable
+- Incluir formulario funcional (aunque no envíe datos reales)
+- Preparado para subir a GitHub y desplegar en Vercel
