@@ -1,6 +1,8 @@
 {
   "framework": "vite",
-  "outputDirectory": "dist/public",
+  "installCommand": "npm install -g pnpm@9 && pnpm install --frozen-lockfile=false",
+  "buildCommand": "pnpm --filter @workspace/little-caesars-parian build",
+  "outputDirectory": "artifacts/little-caesars-parian/dist/public",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
